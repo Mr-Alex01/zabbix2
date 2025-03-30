@@ -45,15 +45,15 @@
 
 `Создание шаблонов. Графа Templates:`
 
-![Задание 1-1](https://github.com/Mr-Alex01/zabbix/blob/main/img/1-1.jpg)
+![Задание 1-1](https://github.com/Mr-Alex01/zabbix2/blob/main/img/1-1.jpg)
 
 `Item CPU Usage % & Item RAM Usage %:`
 
-![Задание 1-2](https://github.com/Mr-Alex01/zabbix/blob/main/img/1-2.jpg)
+![Задание 1-2](https://github.com/Mr-Alex01/zabbix2/blob/main/img/1-2.jpg)
 
 `Latest Data с созданным шаблоном:`
 
-![Задание 1-3](https://github.com/Mr-Alex01/zabbix/blob/main/img/1-3.jpg)
+![Задание 1-3](https://github.com/Mr-Alex01/zabbix2/blob/main/img/1-3.jpg)
 
 
 ---
@@ -81,15 +81,15 @@
 
 `Прикрепление шаблона Linux by Zabbix Agent к имеющимся хостам:`
 
-![Задание 2-1](https://github.com/Mr-Alex01/zabbix/blob/main/img/4.jpg)
+![Задание 2-1](https://github.com/Mr-Alex01/zabbix2/blob/main/img/4.jpg)
 
 `Отображение в Latest Data данных по добавленным агентам:`
 
-![Задание 2-2](https://github.com/Mr-Alex01/zabbix/blob/main/img/5.jpg)
+![Задание 2-2](https://github.com/Mr-Alex01/zabbix2/blob/main/img/5.jpg)
 
 `Отображение в Latest Data общих данных после привязки шаблонов Linux by Zabbix Agent и собственного Test Template:`
 
-![Задание 2-3](https://github.com/Mr-Alex01/zabbix/blob/main/img/6.jpg)
+![Задание 2-3](https://github.com/Mr-Alex01/zabbix2/blob/main/img/6.jpg)
 
 ---
 
@@ -114,6 +114,6 @@
 
 При необходимости прикрепитe сюда скриншоты
 
-`Раздел Configuration > Hosts:`
+`Создание собственного Dashboard:`
 
-![Задание 4](https://github.com/Mr-Alex01/zabbix/blob/main/img/7.jpg)
+![Задание 4](https://github.com/Mr-Alex01/zabbix2/blob/main/img/7.jpg)
